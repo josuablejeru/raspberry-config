@@ -1,3 +1,4 @@
+grafana
 influxdb
 influxdb-client
 collectd
